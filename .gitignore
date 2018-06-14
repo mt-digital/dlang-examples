@@ -12,3 +12,5 @@ dlang-examples-test-*
 *.o
 *.obj
 *.lst
+dlang-examples
+dub.selections.json
