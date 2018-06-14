@@ -1,9 +1,8 @@
-module app.main;
+module main;
 
 import std.stdio;
 
-import app.mirRandom;
-
+import mirRandom;
 
 void main()
 {

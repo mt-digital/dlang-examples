@@ -27,4 +27,19 @@ will be more info for beginners on how to get started with D, or maybe more
 advanced tutorials, say, on random number generators with `mir.random` or 
 some of the other useful stuff in the broader `mir` library.
 
-Also, [DlangScience](https://github.com/DlangScience).
+
+## Build and run examples
+
+First, clone this directory.
+
+Next `cd dlang-examples` and run
+
+```bash
+dub run
+```
+
+You should see output like this, which is dub telling you what it's doing. If
+you are building these examples for the first time you will also see dub 
+output about downloading the requirements. These requirements are in
+[`dub.json`](https://github.com/mt-digital/dlang-examples/blob/master/dub.json) 
+in the project root.
