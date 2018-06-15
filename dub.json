@@ -6,7 +6,8 @@
 	"dependencies": {
 		"mir-algorithm": "~>1.1.0",
 		"mir-random": "~>0.4.7",
-		"scid": "~>0.3.0"
+		"scid": "~>0.3.0",
+                "json": "~>0.3.0"
 	},
 	"description": "Examples in D.",
 	"copyright": "Copyright © 2018, Matthew Turner",
